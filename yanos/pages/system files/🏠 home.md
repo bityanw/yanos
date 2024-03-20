@@ -11,6 +11,8 @@ exclude-from-graph-view:: true
 - ## 🌲 BoK 个人知识体系
 	- #[[🌲 BoK-知识树]]
 		- {{query (page-property :tags [[🌲 BoK-知识树]])}}
+		  query-sort-by:: page
+		  query-sort-desc:: false
 - ## 🔎 分类查看
 	- ### 1 按领域分类 areas
 		- #[[100-👷Job 工作]]
