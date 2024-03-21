@@ -3,6 +3,27 @@ tags:: #⚙️费曼学习OS, #p1-🫐seed-种子, #s5-★★★★★, #[[🧱b
 
 - ## why
 - ## what
+- want to=intended to=aim to=desire to #card
+- rational=sensible=meaningful=advisible #card
+- if=suppose=supposing that #card
+- 如果你要做什么，那么你就应该做什么 #card
+- provided that you aim to do sth,it is sensible for you to do sth #card
+- **in that = 原因在于** #card
+- **for good = 永远** #card
+- combat=resist=shut out 抵挡、抵抗 #card
+- garment 衣服  w=g 以前字母少的时候是近型， legal-law  slug=slow 行动缓慢的 ment名称后缀 war 有歧义，所以变为近型，英语是压缩成两个左右 #card
+- fever 感冒发烧， feverish 狂热的 #card
+- world 世界一般表示界，领域 #card
+- fashion 熟词僻义 创造 #card
+- 否定词：no / not / nothing / without / fail to / far from / few / little / #card
+- lack of / avoid / never / hardly #card
+- 负向词汇：unable / challenge / criticize / blame for / scold责骂 / doubt / #card
+- too … to / useless / cannot / false / problem / question #card
+- 表否定的前缀：de / un / dis / in / non / anti / under / over / counter /less #card
+- enough=sufficient=adequately 足够的 原词加同义替换词一般是正确答案 #card
+- probe=exploration 探索 #card
+- enough=sufficient=adequately 足够的 原词加同义替换词一般是正确答案 #card
+- probe=exploration 探索 #card
 - ## how
 - ## how good
 - ## inbox
