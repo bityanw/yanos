@@ -1,3 +1,5 @@
+tags:: #[[🌲 BoK-知识树]], #🏗️projects-项目
+
 - #+BEGIN_NOTE
   面试策略：讲完优点讲缺点，讲完缺点讲改进
   #+END_NOTE
